@@ -40,7 +40,7 @@
             this.webView21.Location = new System.Drawing.Point(12, 12);
             this.webView21.Name = "webView21";
             this.webView21.Size = new System.Drawing.Size(776, 426);
-            this.webView21.Source = new System.Uri("http://192.168.100.200:4000", System.UriKind.Absolute);
+            this.webView21.Source = new System.Uri("http://www.google.com", System.UriKind.Absolute);
             this.webView21.TabIndex = 0;
             this.webView21.ZoomFactor = 1D;
             // 
